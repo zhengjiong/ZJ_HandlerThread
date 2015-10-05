@@ -1,6 +1,5 @@
-# ZJ_HandlerThread
+# HandlerThread #
 
-------
 ``` java
 mHandlerThread = new HandlerThread("handler-Thread");
         mHandlerThread.start();
